@@ -10,7 +10,9 @@ Import project and reference build.gradle
 * Select folder for SpringBootAngularTemplate
 * Click "Build model"
 * Finish
+* Either run com.company.application.MySpringApplication, or open gradle menu and run the bootRun task
 
 ### Intellij  
 * Import project
 * Select build.gradle found in project directory
+* Open gradle menu and run the bootRun task
