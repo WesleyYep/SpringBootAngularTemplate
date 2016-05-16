@@ -29,7 +29,7 @@ version = '0.0.1'
 // variable definitions
 // port number used for development
 def portNumber = 10003
-def baseName = "athena"
+def baseName = "springTemplate"
 
 jettyRunWar {
     contextPath = '/'
